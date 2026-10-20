@@ -1,6 +1,6 @@
 let nomeHeroi = "Link";
 
-let xpAtual = 10000;
+let xpAtual = 9000;
 
 switch (xpAtual) {
   case 1000:
