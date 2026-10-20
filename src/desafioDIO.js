@@ -1,6 +1,6 @@
 let nomeHeroi = "Link";
 
-let xpAtual = 1000;
+let xpAtual = 10000;
 
 switch (xpAtual) {
   case 1000:
@@ -24,6 +24,7 @@ switch (xpAtual) {
     default:
     console.log(`${nomeHeroi} não está em nenhum ranking!`);
 }
+
 
 
  
